@@ -28,7 +28,8 @@
     font-size: 20px;
 }
 body {
-	background:  #E0FFFF;
+	background-image:  url("image8.jpg");
+	background-color: #cccccc;
 }
 #container {
 	background: blue;
@@ -164,7 +165,7 @@ a {text-decoration: none; /*убираем подчеркивание текст
 	margin-left: 30px;
 	margin-top: 30px;
 	display: inline-block;
-	text-align: center;
+	text-align: left;
 	font-size: 20pt;
 	background: linear-gradient(to top, #66CDAA, #008080);
 }
@@ -200,4 +201,12 @@ a {text-decoration: none; /*убираем подчеркивание текст
 	MARGIN-TOP: 10px;
 	margin-left: 50px;
 	margin-right: 50px;
+}
+#table_style {
+	font-family: Trebuchet MS;
+	font-size: 25px;
+}
+#font-table {
+	font-family: Trebuchet MS;
+	font-size: 15px;
 }
